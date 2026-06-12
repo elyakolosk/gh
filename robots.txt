@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://elyakolosk.github.io/gh/sitemap.xml
